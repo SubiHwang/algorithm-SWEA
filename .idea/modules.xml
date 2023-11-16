@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sw1204/sw1204.iml" filepath="$PROJECT_DIR$/sw1204/sw1204.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1545/sw1545.iml" filepath="$PROJECT_DIR$/sw1545/sw1545.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1859/sw1859.iml" filepath="$PROJECT_DIR$/sw1859/sw1859.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1926/sw1926.iml" filepath="$PROJECT_DIR$/sw1926/sw1926.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1928/sw1928.iml" filepath="$PROJECT_DIR$/sw1928/sw1928.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1954/sw1954.iml" filepath="$PROJECT_DIR$/sw1954/sw1954.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1959/sw1959.iml" filepath="$PROJECT_DIR$/sw1959/sw1959.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1974/sw1974.iml" filepath="$PROJECT_DIR$/sw1974/sw1974.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1979/sw1979.iml" filepath="$PROJECT_DIR$/sw1979/sw1979.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1983/sw1983.iml" filepath="$PROJECT_DIR$/sw1983/sw1983.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw1989/sw1989.iml" filepath="$PROJECT_DIR$/sw1989/sw1989.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2001/sw2001.iml" filepath="$PROJECT_DIR$/sw2001/sw2001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2005/sw2005.iml" filepath="$PROJECT_DIR$/sw2005/sw2005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2007/sw2007.iml" filepath="$PROJECT_DIR$/sw2007/sw2007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2047/sw2047.iml" filepath="$PROJECT_DIR$/sw2047/sw2047.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2056/sw2056.iml" filepath="$PROJECT_DIR$/sw2056/sw2056.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2058/sw2058.iml" filepath="$PROJECT_DIR$/sw2058/sw2058.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2063/sw2063.iml" filepath="$PROJECT_DIR$/sw2063/sw2063.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2068/sw2068.iml" filepath="$PROJECT_DIR$/sw2068/sw2068.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2070/sw2070.iml" filepath="$PROJECT_DIR$/sw2070/sw2070.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2071/sw2071.iml" filepath="$PROJECT_DIR$/sw2071/sw2071.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sw2072/sw2072.iml" filepath="$PROJECT_DIR$/sw2072/sw2072.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swAcademy.iml" filepath="$PROJECT_DIR$/swAcademy.iml" />
+    </modules>
+  </component>
+</project>
